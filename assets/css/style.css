@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+
+.character{
+	color: white;
+	background-color: grey;
+	padding: 5px, 5px, 5px, 5px;
+	margin: 5px;
+}
+
+
+.mainpage{
+	color:Black;
+}
+
+#submit{
+	color:black;
+}
